@@ -1,6 +1,7 @@
 {
   "name": "config",
-  "version": "0.4.29",
+  "private": true,
+  "version": "0.4.29-1",
   "main": "./lib/config.js",
   "description": "Configuration control for production node deployments",
   "author": "Loren West <open_source@lorenwest.com>",
@@ -16,7 +17,7 @@
   },
   "repository": {
     "type" : "git",
-    "url" : "http://github.com/lorenwest/node-config.git"
+    "url" : "http://github.com/floatdrop/node-config.git"
   },
   "engines": {"node": ">0.4.x"},
   "scripts": {
